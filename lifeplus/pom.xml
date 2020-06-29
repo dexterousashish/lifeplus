@@ -39,6 +39,13 @@
 			<artifactId>google-cloud-dialogflow</artifactId>
 			<version>2.1.0</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.google.actions/actions-on-google -->
+		<dependency>
+			<groupId>com.google.actions</groupId>
+			<artifactId>actions-on-google</artifactId>
+			<version>1.8.0</version>
+		</dependency>
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
